@@ -24,3 +24,35 @@
 
 ---
 
+## 📦 Installation
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/yourusername/HandSync.git
+   cd HandSync
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+3. **Run the application**
+   ```bash
+   python handsync.py
+
+---
+
+# 🧪 How It Works
+- Captures live video feed from webcam
+- Uses MediaPipe to extract 21 hand landmarks
+- Preprocesses data and feeds into a trained ML model
+- Recognized gestures trigger specific actions or display labels
+
+---
+
+# 🎓 Use Cases
+- 👋 Sign language interpretation – Translate sign language into text or speech in real-time
+- 🕹️ Gesture-controlled games or devices – Control gameplay or digital devices with natural hand movements
+- 🎮 Contactless media control – Control music, video, or presentations without physical touch
+- 🏥 Assistive tech for people with disabilities – Provide an intuitive interface for individuals with limited mobility
+
+---
+
+
